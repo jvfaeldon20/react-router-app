@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "title": "Townhouse 1",
+      "image": "https://placehold.co/600x400",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae reiciendis unde beatae! Officiis fugit quam tenetur beatae incidunt"
+    },
+    {
+      "id": 2,
+      "title": "Townhouse 2",
+      "image": "https://placehold.co/600x400",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae reiciendis unde beatae! Officiis fugit quam tenetur beatae incidunt"
+    },
+    {
+      "id": 3,
+      "title": "Townhouse 3",
+      "image": "https://placehold.co/600x400",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae reiciendis unde beatae! Officiis fugit quam tenetur beatae incidunt"
+    },
+    {
+      "id": 4,
+      "title": "Townhouse 4",
+      "image": "https://placehold.co/600x400",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae reiciendis unde beatae! Officiis fugit quam tenetur beatae incidunt"
+    }
+]
